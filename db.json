@@ -1,100 +1,117 @@
 [
-   {
-      "name":"arun",
-      "gender":"Male",
-      "physics":88,
-      "maths":87,
-      "english":78
-   },
-   {
-      "name":"rajesh",
-      "gender":"Male",
-      "physics":96,
-      "maths":100,
-      "english":95
-   },
-   {
-      "name":"moorthy",
-      "gender":"Male",
-      "physics":89,
-      "maths":90,
-      "english":70
-   },
-   {
-      "name":"raja",
-      "gender":"Male",
-      "physics":30,
-      "maths":25,
-      "english":40
-   },
-   {
-      "name":"usha",
-      "gender":"Female",
-      "physics":67,
-      "maths":45,
-      "english":78
-   },
-   {
-      "name":"priya",
-      "gender":"Female",
-      "physics":56,
-      "maths":46,
-      "english":78
-   },
-   {
-      "name":"Sundar",
-      "gender":"Male",
-      "physics":12,
-      "maths":67,
-      "english":67
-   },
-   {
-      "name":"Kavitha",
-      "gender":"Female",
-      "physics":78,
-      "maths":71,
-      "english":67
-   },
-   {
-      "name":"Dinesh",
-      "gender":"Male",
-      "physics":56,
-      "maths":45,
-      "english":67
-   },
-   {
-      "name":"Hema",
-      "gender":"Female",
-      "physics":71,
-      "maths":90,
-      "english":23
-   },
-   {
-      "name":"Gowri",
-      "gender":"Female",
-      "physics":100,
-      "maths":100,
-      "english":100
-   },
-   {
-      "name":"Ram",
-      "gender":"Male",
-      "physics":78,
-      "maths":55,
-      "english":47
-   },
-   {
-      "name":"Murugan",
-      "gender":"Male",
-      "physics":34,
-      "maths":89,
-      "english":78
-   },
-   {
-      "name":"Jenifer",
-      "gender":"Female",
-      "physics":67,
-      "maths":88,
-      "english":90
-   }
+	{
+		"name": "Josip Ađaip",
+		"program": "FE",
+		"brojPredavanja": 84
+	},
+	{
+		"name": "Tomas Banić Križaj",
+		"program": "FE",
+		"brojPredavanja": 113
+	},
+	{
+		"name": "Mario Đaković",
+		"program": "FE",
+		"brojPredavanja": 86
+	},
+	{
+		"name": "Kristiana Đukić",
+		"program": "FE",
+		"brojPredavanja": 103
+	},
+	{
+		"name": "Antonela Horvat",
+		"program": "FE",
+		"brojPredavanja": 120
+	},
+	{
+		"name": "Valentina Kobašević Karaula",
+		"program": "FE",
+		"brojPredavanja": 84
+	},
+	{
+		"name": "Robert Kopričanec",
+		"program": "FE",
+		"brojPredavanja": 101
+	},
+	{
+		"name": "Karla Kos",
+		"program": "FE",
+		"brojPredavanja": 84
+	},
+	{
+		"name": "Marijan Kovačević",
+		"program": "FE",
+		"brojPredavanja": 86
+	},
+	{
+		"name": "Stanislav Lazić",
+		"program": "FE",
+		"brojPredavanja": 114
+	},
+	{
+		"name": "Vanna Lehpamer",
+		"program": "FE",
+		"brojPredavanja": 119
+	},
+	{
+		"name": "Kristijan Maršić",
+		"program": "FE",
+		"brojPredavanja": 102
+	},
+	{
+		"name": "Sanja Milaković",
+		"program": "FE",
+		"brojPredavanja": 81
+	},
+	{
+		"name": "Miran Novak",
+		"program": "FE",
+		"brojPredavanja": 94
+	},
+	{
+		"name": "Dorotea Periša",
+		"program": "FE",
+		"brojPredavanja": 101
+	},
+	{
+		"name": "Dominik Pokos",
+		"program": "FE",
+		"brojPredavanja": 117
+	},
+	{
+		"name": "Noan Sirotić",
+		"program": "FE",
+		"brojPredavanja": 88
+	},
+	{
+		"name": "Antonio Spajić",
+		"program": "FE",
+		"brojPredavanja": 100
+	},
+	{
+		"name": "Frenki Šimunov",
+		"program": "FE",
+		"brojPredavanja": 123
+	},
+	{
+		"name": "Mario Šola",
+		"program": "FE",
+		"brojPredavanja": 83
+	},
+	{
+		"name": "Ivan Tokić",
+		"program": "FE",
+		"brojPredavanja": 100
+	},
+	{
+		"name": "Josip Tomas",
+		"program": "FE",
+		"brojPredavanja": 115
+	},
+	{
+		"name": "Joso Uhoda",
+		"program": "FE",
+		"brojPredavanja": 114
+	}
 ]
